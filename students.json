@@ -1,0 +1,27 @@
+[
+  {
+    "StudentID": 101,
+    "StudentName": "Alice",
+    "TeacherID": 1
+  },
+  {
+    "StudentID": 102,
+    "StudentName": "Bob",
+    "TeacherID": 1
+  },
+  {
+    "StudentID": 103,
+    "StudentName": "Charlie",
+    "TeacherID": 2
+  },
+  {
+    "StudentID": 105,
+    "StudentName": "Elan",
+    "TeacherID": 3
+  },
+  {
+    "StudentID": 106,
+    "StudentName": "Felix",
+    "TeacherID": 2
+  }
+]

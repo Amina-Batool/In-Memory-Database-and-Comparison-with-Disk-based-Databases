@@ -1,0 +1,4 @@
+[
+    {"TeacherID": 1, "TeacherName": "Dr. Smith", "DeptID": 1},
+    {"TeacherID": 2, "TeacherName": "Dr. Brown", "DeptID": 2}
+]
